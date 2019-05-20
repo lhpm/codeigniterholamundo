@@ -11,7 +11,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <body>
         <div class="container-fluid">
           <div class="row">
-            <h2>Hola Mundo</h2>
+            <div class="col-sm">
+               <h3>Columna izquierda</h3>
+            </div>
+            <div class="col-sm">
+               <h2>Hola Mundo</h2>
+            </div>
+            <div class="col-sm">
+               <h3>Columna Derecha</h3>
+            </div>
           </div>
         </div>
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
