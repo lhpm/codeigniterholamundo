@@ -8,6 +8,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <title>CodeIgniter Luis Patiño Machado</title>
     </head>
     <body>
-        <h2>Hola Mundo</h2>
+        <h2>Hola Mund</h2>
     </body>
 </html>
